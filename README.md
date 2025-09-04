@@ -1,4 +1,4 @@
-# 🧠 MockMate – Interviews in Your Pocket
+# 🧠 TestBuddy – Interviews in Your Pocket
 
 MockMate is an AI-powered interview preparation platform that simulates **real-time voice-based interviews** using conversational agents. Designed to help candidates prepare smarter and faster, MockMate enables users to **generate customized interview sessions** and practice them interactively — all from the comfort of their browser.
 
