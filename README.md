@@ -1,6 +1,6 @@
 # 🧠 TestBuddy – Interviews in Your Pocket
 
-MockMate is an AI-powered interview preparation platform that simulates **real-time voice-based interviews** using conversational agents. Designed to help candidates prepare smarter and faster, MockMate enables users to **generate customized interview sessions** and practice them interactively — all from the comfort of their browser.
+TestBuddy is an AI-powered interview preparation platform that simulates **real-time voice-based interviews** using conversational agents. Designed to help candidates prepare smarter and faster, TestBuddy enables users to **generate customized interview sessions** and practice them interactively — all from the comfort of their browser.
 
 ---
 
@@ -16,11 +16,11 @@ MockMate is an AI-powered interview preparation platform that simulates **real-t
   - **Authentication:** Firebase Auth
 ---
 
-## 🌟 Why MockMate?
+## 🌟 Why TestBuddy?
 
 > “Because preparing for interviews should feel like *talking to a person*, not solving a Google Doc.”
 
-MockMate takes traditional mock interviews to the next level by offering:
+TestBuddy takes traditional mock interviews to the next level by offering:
 - Real-time **AI voice conversations**
 - Smart question generation via your preferences
 - Workflow-based design that mimics actual interview dynamics
@@ -46,8 +46,8 @@ Check out the live link attached with this repository to test.
 ### 1. Clone the Repo
 
 ```bash
-git clone https://github.com/yourusername/mockmate.git
-cd mockmate
+git clone https://github.com/yourusername/TestBuddy.git
+cd TestBuddy
 ```
 ### 2. Install Dependencies
 
